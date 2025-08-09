@@ -47,6 +47,11 @@ The goal of this project is to clean, process, and analyze order data from top c
 - Recognize primary causes of order cancellations.
 - Track sales trends and top product categories.
 
+---
+
+## 📸 Screenshots 
+![Sales Dashboard](Screenshot.png)
+![Cancellation Report](Screenshot.png)
 
 
 
