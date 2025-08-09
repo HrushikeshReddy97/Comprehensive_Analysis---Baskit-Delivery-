@@ -49,10 +49,10 @@ The goal of this project is to clean, process, and analyze order data from top c
 
 ---
 
-## 📸 Screenshots
-*(Replace with actual dashboard images)*  
-![Sales Dashboard](<img width="938" height="498" alt="Screenshot 2025-08-09 144628" src="https://github.com/user-attachments/assets/e89c458a-f4c4-4d94-a304-aa55462e2ae9" />
-)  
+## 📸 Screenshots 
+![Sales Dashboard](<img width="938" height="498" alt="Screenshot 2025-08-09 144628" src="https://github.com/user-attachments/assets/651436ea-43db-438d-b4e8-8b806bbefc35" />
+)
+
 ![Cancellation Report](<img width="426" height="507" alt="Screenshot 2025-08-09 144656" src="https://github.com/user-attachments/assets/b8c98cc7-0b80-45c0-b877-cbba4e44c45c" />
 )
 
