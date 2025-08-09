@@ -1,7 +1,7 @@
 # 📦 Baskit Order & Cancellation Analysis
 
 ## 📌 Project Overview
-Baskit is a premium grocery delivery service in Bangalore, specializing in **fresh fruits, vegetables, snacks, and drinks**.  
+Baskit is a premium grocery delivery service in Mumbai, specializing in **fresh fruits, vegetables, snacks, and drinks**.  
 The goal of this project is to clean, process, and analyze order data from top customers to gain insights into **sales trends** and **cancellation patterns**—ultimately improving service quality and customer satisfaction.
 
 ---
